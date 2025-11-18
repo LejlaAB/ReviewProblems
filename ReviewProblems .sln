@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReviewProblems", "ReviewProblems \ReviewProblems.csproj", "{190EC906-7F7F-4D50-9A44-B7C93C2E62A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticOperations", "ArithmeticOperations\ArithmeticOperations.csproj", "{905FD51E-4A39-40AD-9E64-3FA4CD9ED20F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionBasedOnBooleans", "DecisionBasedOnBooleans\DecisionBasedOnBooleans.csproj", "{B2EE8B63-E722-464B-AB1A-9DB98AC8B383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{190EC906-7F7F-4D50-9A44-B7C93C2E62A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190EC906-7F7F-4D50-9A44-B7C93C2E62A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190EC906-7F7F-4D50-9A44-B7C93C2E62A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190EC906-7F7F-4D50-9A44-B7C93C2E62A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{905FD51E-4A39-40AD-9E64-3FA4CD9ED20F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905FD51E-4A39-40AD-9E64-3FA4CD9ED20F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905FD51E-4A39-40AD-9E64-3FA4CD9ED20F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905FD51E-4A39-40AD-9E64-3FA4CD9ED20F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2EE8B63-E722-464B-AB1A-9DB98AC8B383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2EE8B63-E722-464B-AB1A-9DB98AC8B383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2EE8B63-E722-464B-AB1A-9DB98AC8B383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2EE8B63-E722-464B-AB1A-9DB98AC8B383}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
