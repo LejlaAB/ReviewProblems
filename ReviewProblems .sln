@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplesOfNumbers", "Multi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitSumForeach", "DigitSumForeach\DigitSumForeach.csproj", "{92678094-E9B9-4E42-B75D-8409CEEBCEE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitSumModulo", "DigitSumModulo\DigitSumModulo.csproj", "{E6526119-3CD6-4FEE-A61F-96024E4BABB5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{92678094-E9B9-4E42-B75D-8409CEEBCEE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92678094-E9B9-4E42-B75D-8409CEEBCEE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92678094-E9B9-4E42-B75D-8409CEEBCEE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6526119-3CD6-4FEE-A61F-96024E4BABB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6526119-3CD6-4FEE-A61F-96024E4BABB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6526119-3CD6-4FEE-A61F-96024E4BABB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6526119-3CD6-4FEE-A61F-96024E4BABB5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
